@@ -5,7 +5,7 @@
 <div align='center' size='20px'>
   <p>Hi!</p>
   <p>
-    My name is Tommy and I am a Software Engineer from Kapolei, Hawaii who graduated from the University of Minnesota in 2021. My goal is to continue     learning from those in the industry and improve further as a engineer, picking up new skills and techniques as well as refining my current ones. My experience is primarily in Front end development and DevOps although I am always excited to branch out and learn new things. In my free time, I enjoy playing my guitar, making music, animating, and spending time with my dog, Yoshi.  
+    My name is Tommy and I am a Software Engineer Kapolei, Hawaii who graduated from the University of Minnesota in 2021 and currently living in Kapolei, Hawaii. My goal is to continue     learning from those in the industry and improve further as a engineer, picking up new skills and techniques as well as refining my current ones. My experience is primarily in Front end development and DevOps although I am always excited to branch out and learn new things. In my free time, I enjoy playing my guitar, making music, animating, and spending time with my dog, Yoshi.  
   </p>
   <p>If you would like to connect or talk, please find me here on LinkedIn.</p>
   <p>
