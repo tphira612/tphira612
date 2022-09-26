@@ -9,7 +9,7 @@
   </p>
   <p>If you would like to connect or talk, please find me here on LinkedIn.</p>
   <p>
-    <a href = 'https://www.linkedin.com/in/tommy-phiravanh/'> <img margin-left="2px" width = '40px' height='40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+    <a href = 'https://www.linkedin.com/in/tommy-phiravanh/' target="_blank" rel="noopener noreferrer" > <img margin-left="2px" width = '40px' height='40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
   </p>
  </div>
 <!--- END INTRODUCTION --->
