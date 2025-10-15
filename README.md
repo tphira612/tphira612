@@ -3,7 +3,7 @@
 <div align='center' size='20px'>
   <p>Hi!</p>
   <p>
-    Welcome, here you'll find various tools to reduce time on long tasks.  
+    Welcome, I develop mods and tools for automation.  
   </p>
   <p>Let me know if you have any questions!</p>
 
