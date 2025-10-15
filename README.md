@@ -2,7 +2,7 @@
 <h1 align='center'>Introduction</h1>
 <div align='center' size='20px'>
   <p>
-    Welcome, I develop mods and tools for automation, also some things for fun but if they are useful to you then go wild!  
+    Welcome to my github, I develop mods and tools to hopefully make things more convenient.
  </div>
 <!--- END INTRODUCTION --->
 
