@@ -1,12 +1,8 @@
 <!--- INTRODUCTION --->
 <h1 align='center'>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <div align='center' size='20px'>
-  <p>Hi!</p>
   <p>
-    Welcome, I develop mods and tools for automation.  
-  </p>
-  <p>Let me know if you have any questions!</p>
-
+    Welcome, I develop mods and tools for automation, also some things for fun but if they are useful to you then go wild!  
  </div>
 <!--- END INTRODUCTION --->
 
