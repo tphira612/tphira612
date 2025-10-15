@@ -3,12 +3,10 @@
 <div align='center' size='20px'>
   <p>Hi!</p>
   <p>
-    My name is Tommy and I am a Software Engineer who graduated from the University of Minnesota in 2021 and currently living in Champlin, Minnesota. My goal is to continue learning from those in the industry and improve further as a engineer, picking up new skills and techniques as well as refining my current ones. My experience is primarily in Front end development and DevOps although I am always excited to branch out and learn new things. In my free time, I enjoy playing my guitar, making music, animating, and spending time with my dog, Yoshi.  
+    Welcome, here you'll find various tools to reduce time on long tasks.  
   </p>
-  <p>If you would like to connect or talk, please find me here on LinkedIn.</p>
-  <p>
-    <a href = 'https://www.linkedin.com/in/tommy-phiravanh/' target="_blank" rel="noopener noreferrer"> <img margin-left="2px" width = '40px' height='40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-  </p>
+  <p>Let me know if you have any questions!</p>
+
  </div>
 <!--- END INTRODUCTION --->
 
