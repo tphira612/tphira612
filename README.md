@@ -45,7 +45,8 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
+### Nexus Mods
+[<img width="400" height="300" alt="db" src="https://github.com/user-attachments/assets/7369da00-2089-4b8f-82cb-088f7b8069ee">](https://next.nexusmods.com/profile/RockAndRollAndStone/mods)
 <br>
 </div>
 <!--- END SKILLS --->
